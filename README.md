@@ -8,4 +8,9 @@ The concept is to click on an image and then the images are randomly scrambled f
 
 # Instructions
 
-To play, please clone this repo and run `yarn install` Once the install is complete you can run `yarn start` to run the app locally and play the game.
+## Run Locally
+To run locally, please clone this repo and run `yarn install` Once the install is complete you can run `yarn start` to run the app locally and play the game.
+
+## Deployed App
+Or, just check out the deployed version:
+https://star-wars-clicky-game.herokuapp.com/
