@@ -1,6 +1,6 @@
 .footer {
   background: 
-  #6956AF;
+  #2C323C;
   height: 100px;
   position: relative;
   color: white;
@@ -12,9 +12,10 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background:#5138A1;
+  background:#1D1D1D;
   padding: 8px;
   font-weight: 600;
+  color: #F9F100;
 }
 
 .footer > .bottom > img {
