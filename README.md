@@ -8,4 +8,4 @@ The concept is to click on an image and then the images are randomly scrambled f
 
 # Instructions
 
-To play, please clone this repo and run 'yarn install' Once the install is complete you can run 'yarn start' to run the app locally and play the game.
+To play, please clone this repo and run `yarn install` Once the install is complete you can run `yarn start` to run the app locally and play the game.
